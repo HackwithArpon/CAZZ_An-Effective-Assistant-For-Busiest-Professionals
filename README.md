@@ -5,6 +5,6 @@ Effective Assistant for Busiest Professionals project focuses on implementing fe
 The whole project can be mainly divided under 3 umbrellas :- **events, a to-do app and health focused features**
 
 The TO-DO app comes with three features:
-*add task
-*edit task
-*clear task
+• add task
+• edit task
+• clear task
