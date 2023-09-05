@@ -1,4 +1,4 @@
-# Effective-Assistant-For-Busiest-Professionals
+# CAZZ-An-Effective-Assistant-For-Busiest-Professionals
 
 **PROJECT IDEA :**
 
